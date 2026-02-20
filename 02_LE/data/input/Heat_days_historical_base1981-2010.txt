@@ -1,0 +1,174 @@
+Country	Heat days 2015-2020
+Afghanistan	6
+Albania	7
+Algeria	5
+Angola	5
+Antarctica	10
+Argentina	7
+Armenia	6
+Australia	7
+Austria	7
+Azerbaijan	6
+Bahamas	2
+Bangladesh	12
+Belarus	6
+Belgium	7
+Belize	6
+Benin	7
+Bhutan	8
+Bolivia	6
+Bosnia and Herz.	8
+Botswana	6
+Brazil	6
+Brunei	3
+Bulgaria	7
+Burkina Faso	6
+Burundi	6
+Cambodia	6
+Cameroon	6
+Canada	7
+Central African Rep.	8
+Chad	5
+Chile	7
+China	8
+Colombia	5
+Congo	7
+Costa Rica	3
+Croatia	8
+Cuba	5
+Cyprus	6
+Czechia	6
+Côte d'Ivoire	7
+Dem. Rep. Congo	8
+Denmark	4
+Djibouti	4
+Dominican Rep.	4
+Ecuador	4
+Egypt	6
+El Salvador	3
+Eq. Guinea	5
+Eritrea	5
+Estonia	4
+Ethiopia	4
+Falkland Is.	8
+Fiji	5
+Finland	4
+Fr. S. Antarctic Lands	7
+France	6
+Gabon	5
+Gambia	5
+Georgia	6
+Germany	6
+Ghana	7
+Greece	7
+Greenland	6
+Guatemala	5
+Guinea	5
+Guinea-Bissau	6
+Guyana	2
+Haiti	4
+Honduras	4
+Hungary	7
+Iceland	4
+India	8
+Indonesia	4
+Iran	5
+Iraq	5
+Ireland	5
+Israel	7
+Italy	7
+Jamaica	1
+Japan	7
+Jordan	6
+Kazakhstan	7
+Kenya	4
+Kosovo	7
+Kuwait	4
+Kyrgyzstan	7
+Laos	7
+Latvia	5
+Lebanon	7
+Lesotho	6
+Liberia	5
+Libya	5
+Lithuania	5
+Madagascar	6
+Malawi	6
+Malaysia	4
+Mali	4
+Mauritania	5
+Mexico	6
+Moldova	6
+Mongolia	7
+Montenegro	7
+Morocco	6
+Mozambique	7
+Myanmar	7
+Namibia	6
+Nepal	8
+Netherlands	6
+New Caledonia	6
+New Zealand	8
+Nicaragua	3
+Niger	4
+Nigeria	7
+North Korea	7
+North Macedonia	7
+Norway	4
+Oman	5
+Pakistan	6
+Palestine	7
+Panama	4
+Papua New Guinea	4
+Paraguay	9
+Peru	4
+Philippines	4
+Poland	6
+Portugal	8
+Qatar	4
+Romania	7
+Russia	7
+Rwanda	6
+S. Sudan	8
+Saudi Arabia	4
+Senegal	6
+Serbia	8
+Sierra Leone	5
+Slovakia	7
+Slovenia	7
+Solomon Is.	3
+Somalia	4
+Somaliland	3
+South Africa	7
+South Korea	7
+Spain	8
+Sri Lanka	5
+Sudan	6
+Suriname	2
+Sweden	4
+Switzerland	7
+Syria	5
+Taiwan	7
+Tajikistan	7
+Tanzania	6
+Thailand	7
+Timor-Leste	4
+Togo	8
+Trinidad and Tobago	1
+Tunisia	7
+Turkey	6
+Turkmenistan	6
+Uganda	7
+Ukraine	7
+United Arab Emirates	4
+United Kingdom	5
+United States of America	7
+Uruguay	8
+Uzbekistan	6
+Venezuela	4
+Vietnam	7
+W. Sahara	5
+Yemen	4
+Zambia	6
+Zimbabwe	7
+eSwatini	7

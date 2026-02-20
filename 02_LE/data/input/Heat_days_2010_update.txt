@@ -1,0 +1,174 @@
+Country	Heat days 2015-2020
+Afghanistan	17
+Albania	20
+Algeria	21
+Angola	20
+Antarctica	13
+Argentina	13
+Armenia	19
+Australia	14
+Austria	18
+Azerbaijan	19
+Bahamas	34
+Bangladesh	9
+Belarus	14
+Belgium	14
+Belize	17
+Benin	16
+Bhutan	16
+Bolivia	21
+Bosnia and Herz.	19
+Botswana	15
+Brazil	22
+Brunei	28
+Bulgaria	18
+Burkina Faso	17
+Burundi	23
+Cambodia	17
+Cameroon	18
+Canada	15
+Central African Rep.	15
+Chad	18
+Chile	15
+China	15
+Colombia	21
+Congo	16
+Costa Rica	24
+Croatia	18
+Cuba	20
+Cyprus	21
+Czechia	16
+Côte d'Ivoire	20
+Dem. Rep. Congo	16
+Denmark	18
+Djibouti	22
+Dominican Rep.	18
+Ecuador	23
+Egypt	17
+El Salvador	16
+Eq. Guinea	21
+Eritrea	20
+Estonia	16
+Ethiopia	23
+Falkland Is.	15
+Fiji	21
+Finland	16
+Fr. S. Antarctic Lands	15
+France	19
+Gabon	20
+Gambia	21
+Georgia	20
+Germany	15
+Ghana	19
+Greece	21
+Greenland	19
+Guatemala	18
+Guinea	21
+Guinea-Bissau	17
+Guyana	29
+Haiti	18
+Honduras	18
+Hungary	16
+Iceland	22
+India	12
+Indonesia	24
+Iran	19
+Iraq	21
+Ireland	18
+Israel	17
+Italy	21
+Jamaica	34
+Japan	16
+Jordan	18
+Kazakhstan	17
+Kenya	24
+Kosovo	19
+Kuwait	21
+Kyrgyzstan	17
+Laos	16
+Latvia	15
+Lebanon	18
+Lesotho	16
+Liberia	24
+Libya	17
+Lithuania	15
+Madagascar	20
+Malawi	18
+Malaysia	24
+Mali	21
+Mauritania	22
+Mexico	20
+Moldova	16
+Mongolia	14
+Montenegro	20
+Morocco	20
+Mozambique	15
+Myanmar	16
+Namibia	17
+Nepal	14
+Netherlands	15
+New Caledonia	21
+New Zealand	17
+Nicaragua	23
+Niger	21
+Nigeria	16
+North Korea	14
+North Macedonia	20
+Norway	20
+Oman	18
+Pakistan	16
+Palestine	18
+Panama	23
+Papua New Guinea	25
+Paraguay	15
+Peru	23
+Philippines	23
+Poland	14
+Portugal	19
+Qatar	19
+Romania	17
+Russia	15
+Rwanda	24
+S. Sudan	16
+Saudi Arabia	21
+Senegal	20
+Serbia	17
+Sierra Leone	23
+Slovakia	16
+Slovenia	18
+Solomon Is.	29
+Somalia	22
+Somaliland	23
+South Africa	15
+South Korea	15
+Spain	21
+Sri Lanka	16
+Sudan	19
+Suriname	29
+Sweden	15
+Switzerland	18
+Syria	20
+Taiwan	18
+Tajikistan	18
+Tanzania	21
+Thailand	16
+Timor-Leste	24
+Togo	18
+Trinidad and Tobago	46
+Tunisia	18
+Turkey	20
+Turkmenistan	16
+Uganda	21
+Ukraine	15
+United Arab Emirates	20
+United Kingdom	17
+United States of America	16
+Uruguay	12
+Uzbekistan	17
+Venezuela	23
+Vietnam	16
+W. Sahara	22
+Yemen	21
+Zambia	18
+Zimbabwe	13
+eSwatini	14
