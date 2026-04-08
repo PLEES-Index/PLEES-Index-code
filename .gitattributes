@@ -1,0 +1,2 @@
+03_E/data/input/heavylaborlost_global_populationweighted_annual_hours_lost_mean_present_warming_1_2_3_4_C_grid_05x05.nc filter=lfs diff=lfs merge=lfs -text
+03_E/data/input/hours_lost_annual_heavylabor_sWBGT_ERA5_WattsKjellstromLancetERF_1979_2000.nc filter=lfs diff=lfs merge=lfs -text
