@@ -1,0 +1,174 @@
+Country	CDD 2050
+Afghanistan	145
+Albania	40
+Algeria	288
+Angola	137
+Antarctica	64
+Argentina	22
+Armenia	28
+Australia	98
+Austria	16
+Azerbaijan	42
+Bahamas	19
+Bangladesh	89
+Belarus	21
+Belgium	20
+Belize	32
+Benin	192
+Bhutan	30
+Bolivia	32
+Bosnia and Herz.	27
+Botswana	120
+Brazil	77
+Brunei	6
+Bulgaria	42
+Burkina Faso	206
+Burundi	103
+Cambodia	58
+Cameroon	135
+Canada	23
+Central African Rep.	133
+Chad	262
+Chile	19
+China	40
+Colombia	27
+Congo	41
+Costa Rica	100
+Croatia	30
+Cuba	25
+Cyprus	157
+Czechia	18
+Côte d'Ivoire	138
+Dem. Rep. Congo	53
+Denmark	19
+Djibouti	135
+Dominican Rep.	19
+Ecuador	7
+Egypt	335
+El Salvador	69
+Eq. Guinea	35
+Eritrea	149
+Estonia	19
+Ethiopia	118
+Falkland Is.	11
+Fiji	14
+Finland	17
+Fr. S. Antarctic Lands	5
+France	25
+Gabon	25
+Gambia	266
+Georgia	20
+Germany	18
+Ghana	155
+Greece	59
+Greenland	38
+Guatemala	33
+Guinea	187
+Guinea-Bissau	248
+Guyana	73
+Haiti	36
+Honduras	30
+Hungary	28
+Iceland	12
+India	103
+Indonesia	14
+Iran	153
+Iraq	188
+Ireland	14
+Israel	178
+Italy	36
+Jamaica	19
+Japan	11
+Jordan	194
+Kazakhstan	51
+Kenya	98
+Kosovo	30
+Kuwait	218
+Kyrgyzstan	29
+Laos	61
+Latvia	19
+Lebanon	121
+Lesotho	32
+Liberia	95
+Libya	291
+Lithuania	19
+Madagascar	58
+Malawi	88
+Malaysia	8
+Mali	272
+Mauritania	319
+Mexico	63
+Moldova	36
+Mongolia	57
+Montenegro	31
+Morocco	123
+Mozambique	65
+Myanmar	84
+Namibia	136
+Nepal	45
+Netherlands	19
+New Caledonia	28
+New Zealand	13
+Nicaragua	40
+Niger	292
+Nigeria	191
+North Korea	24
+North Macedonia	36
+Norway	16
+Oman	284
+Pakistan	115
+Palestine	177
+Panama	55
+Papua New Guinea	8
+Paraguay	24
+Peru	14
+Philippines	9
+Poland	18
+Portugal	71
+Qatar	275
+Romania	31
+Russia	23
+Rwanda	82
+S. Sudan	135
+Saudi Arabia	221
+Senegal	277
+Serbia	33
+Sierra Leone	146
+Slovakia	24
+Slovenia	21
+Solomon Is.	5
+Somalia	123
+Somaliland	143
+South Africa	47
+South Korea	22
+Spain	44
+Sri Lanka	37
+Sudan	237
+Suriname	97
+Sweden	17
+Switzerland	15
+Syria	155
+Taiwan	15
+Tajikistan	52
+Tanzania	105
+Thailand	76
+Timor-Leste	102
+Togo	169
+Trinidad and Tobago	39
+Tunisia	130
+Turkey	57
+Turkmenistan	148
+Uganda	60
+Ukraine	30
+United Arab Emirates	339
+United Kingdom	16
+United States of America	21
+Uruguay	16
+Uzbekistan	135
+Venezuela	90
+Vietnam	27
+W. Sahara	350
+Yemen	192
+Zambia	152
+Zimbabwe	114
+eSwatini	36
